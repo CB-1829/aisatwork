@@ -1,0 +1,6 @@
+{
+  "name": "AI CEO Rivalry & Game Studio",
+  "description": "Two rival AI-led game companies with Gemini CEOs competing, hiring/firing distinct AI personalities, deploying games via a Python host connector, and handling live player feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
